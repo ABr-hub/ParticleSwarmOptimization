@@ -10,7 +10,7 @@ optimization process as a swarm of particles moving through a search space to fi
 
 Here's a brief description of how PSO works:
 
-1. Initialization:
+1. **Initialization**:
     Initialize a swarm of particles with random positions and velocities within a defined search space.
     Evaluate the fitness of each particle based on an objective function.
 
