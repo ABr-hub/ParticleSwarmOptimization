@@ -1,8 +1,8 @@
 # ParticleSwarmOptimization
 This repo demonstrates a use case (solving required input parameters) for the popular particle swarm optimization and it's solution.
 
---
-PSO 
+---
+### PSO 
 
 Particle Swarm Optimization (PSO) is a population-based optimization algorithm inspired by social behavior observed in bird flocking or 
 fish schooling. It was originally developed by James Kennedy and Russell Eberhart in 1995. The basic idea behind PSO is to model the 
