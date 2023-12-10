@@ -31,4 +31,4 @@ Here's a brief description of how PSO works:
 The figure below demonstrates how PSO swarms the various particles around the target area of optimization. The goal of PSO, therefore, #
 is to find the optimum parameters that solve the problem best.
 
-!(https://github.com/ABr-hub/Drawings/blob/main/PSO_Principle.drawio)
+![image](https://github.com/ABr-hub/Drawings/blob/main/PSO_Principle.drawio)
