@@ -14,16 +14,16 @@ Here's a brief description of how PSO works:
     Initialize a swarm of particles with random positions and velocities within a defined search space.
     Evaluate the fitness of each particle based on an objective function.
 
-2. Update Particle Positions and Velocities:
+2. ***Update*** Particle Positions and Velocities:
     Update each particle's velocity and position using its own best-known position and the best-known position of the entire swarm.
     The movement is guided by the particle's own experience and the collective knowledge of the swarm.
 
-3. Evaluate Fitness:
+3. ***Evaluate Fitness***:
     Evaluate the fitness of the particles' new positions.
 
-4. Update Personal and Global Bests:
+4. ***Update*** Personal and Global Bests:
     Update each particle's personal best position if its fitness improves.
     Update the global best position based on the best fitness value found by any particle in the entire swarm.
 
-5. Repeat:
+5. ***Repeat***:
     Repeat steps 2-4 for a specified number of iterations or until a termination criterion is met.
