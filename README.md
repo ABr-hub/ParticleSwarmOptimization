@@ -36,4 +36,10 @@ is to find the optimum parameters that solve the problem best.
 ---
 ### Sample optimization problem
 
+PSO is frequently applied to address the determination of necessary input parameters in a given equation or function. 
+To illustrate, if the objective is to launch a cannonball to a predefined distance, one would take into account the 
+physics-based equation depicted in the figure below.
+In the case presented here, the PSO algorithm is applied to find the desired optimum initial velocity $$v_i$$ of the shot and the 
+angle at which it is shot.
+
 ![image](https://github.com/ABr-hub/Drawings/blob/c1f7cb723c4c8e6cdb3e67fe3e025e8e6ba46c24/Unbenanntes%20Diagramm.drawio.svg)
