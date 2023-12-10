@@ -1,7 +1,7 @@
 # ParticleSwarmOptimization
 This repo demonstrates a use case (solving required input parameters) for the popular particle swarm optimization and it's solution.
 
----
+--
 PSO 
 
 Particle Swarm Optimization (PSO) is a population-based optimization algorithm inspired by social behavior observed in bird flocking or 
