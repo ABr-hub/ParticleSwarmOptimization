@@ -42,7 +42,7 @@ physics-based equation depicted in the figure below.
 In the case presented here, the PSO algorithm is applied to find the desired optimum initial velocity $v_i$ of the shot and the 
 angle $a$ at which it is shot.
 
-![image](https://github.com/ABr-hub/Drawings/blob/c1f7cb723c4c8e6cdb3e67fe3e025e8e6ba46c24/Unbenanntes%20Diagramm.drawio.svg)
+![image](https://github.com/ABr-hub/ParticleSwarmOptimization/blob/2e8d4336904b68c562d7243337cf08fc926266ab/ressources/CannonOptimization.svg)
 
 The below simulation demonstrates how the particle swarm searches the optimization space to end up in the optimal solution. 
 It is noteworthy that there exist two viable solutions for both the angle and velocity within this problem. Furthermore, 
