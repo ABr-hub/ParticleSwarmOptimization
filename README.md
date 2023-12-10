@@ -44,5 +44,9 @@ angle $a$ at which it is shot.
 
 ![image](https://github.com/ABr-hub/Drawings/blob/c1f7cb723c4c8e6cdb3e67fe3e025e8e6ba46c24/Unbenanntes%20Diagramm.drawio.svg)
 
+The below simulation demonstrates how the particle swarm searches the optimization space to end up in the optimal solution. 
+It is noteworthy that there exist two viable solutions for both the angle and velocity within this problem. Furthermore, 
+the particles display a discernible dispersion across the solution space, a phenomenon primarily influenced by the selection 
+of hyperparameters. The degree of particle spread can be modulated through the careful adjustment of these parameters.
 
 ![](https://github.com/ABr-hub/ParticleSwarmOptimization/blob/main/PSO_2Solution.gif)
