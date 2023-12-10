@@ -32,3 +32,8 @@ The figure below demonstrates how PSO swarms the various particles around the ta
 is to find the optimum parameters that solve the problem best.
 
 ![image](https://github.com/ABr-hub/Drawings/blob/230cdf6971433212fa16772b73dc75d4fbd238c6/Unbenanntes%20Diagramm.drawio.svg)
+
+---
+### Sample optimization problem
+
+![image](https://github.com/ABr-hub/Drawings/blob/c1f7cb723c4c8e6cdb3e67fe3e025e8e6ba46c24/Unbenanntes%20Diagramm.drawio.svg)
