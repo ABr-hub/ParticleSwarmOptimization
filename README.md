@@ -49,4 +49,4 @@ It is noteworthy that there exist two viable solutions for both the angle and ve
 the particles display a discernible dispersion across the solution space, a phenomenon primarily influenced by the selection 
 of hyperparameters. The degree of particle spread can be modulated through the careful adjustment of these parameters.
 
-![](https://github.com/ABr-hub/ParticleSwarmOptimization/blob/main/PSO_2Solution.gif)
+![](https://github.com/ABr-hub/ParticleSwarmOptimization/blob/a0e40e84aad239bb120d579c1f5b8c142ed1bc2b/ressources/PSO_2Solution.gif)
