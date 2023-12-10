@@ -32,4 +32,4 @@ The figure below demonstrates how PSO swarms the various particles around the ta
 is to find the optimum parameters that solve the problem best.
 
 
-![image](https://github.com/ABr-hub/Drawings/blob/54b9f1b913f9104237bc38907ef5eb812f4aa56d/PSO_Principle.drawio.svg)
+![image](https://github.com/ABr-hub/Drawings/blob/7853b6cb0d272d8e6935271420ccad13aba95cc6/PSO_Principle.drawio.svg)
