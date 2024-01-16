@@ -13,19 +13,27 @@ Here's a brief description of how PSO works:
 1. ***Initialization***:
     Initialize a swarm of particles with random <ins>**positions**</ins> and <ins>**veloities**</ins> within a defined search space.
     Evaluate the fitness of each particle based on an objective function.
+    
+   * Each particle in the swarm represents a potential solution to the optimization problem. The position of a particle corresponds
+   to a point in the search space where the algorithm is trying to find the optimal solution. In a multidimensional problem, each
+   dimension of the position vector represents a variable of the optimization problem.
 
-2. ***Update*** Particle Positions and Velocities:
+   * Velocity represents the rate of change of a particle's position in the search space. It determines the direction and magnitude
+   at which a particle moves during each iteration. The velocity vector is adjusted based on the particle's historical best-known
+   position (pbest) and the swarm's best-known position (gbest).
+
+3. ***Update*** Particle Positions and Velocities:
     Update each particle's velocity and position using its own best-known position and the best-known position of the entire swarm.
     The movement is guided by the particle's own experience and the collective knowledge of the swarm.
 
-3. ***Evaluate Fitness***:
+4. ***Evaluate Fitness***:
     Evaluate the fitness of the particles' new positions.
 
-4. ***Update*** Personal and Global Bests:
+5. ***Update*** Personal and Global Bests:
     Update each particle's personal best position if its fitness improves.
     Update the global best position based on the best fitness value found by any particle in the entire swarm.
 
-5. ***Repeat***:
+6. ***Repeat***:
     Repeat steps 2-4 for a specified number of iterations or until a termination criterion is met.
 
 The figure below demonstrates how PSO swarms the various particles around the target area of optimization. The goal of PSO, therefore,
